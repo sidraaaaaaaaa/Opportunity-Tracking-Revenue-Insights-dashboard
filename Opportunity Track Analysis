@@ -1,0 +1,48 @@
+Opportunity Tracking & Channel Revenue Insights – Power BI Dashboard
+
+This Power BI dashboard provides a complete overview of opportunity performance, sales pipeline activity, and revenue analysis across segments, regions, and sales stages.
+Designed to help organizations understand where opportunities are created, how they progress through the pipeline, and which areas drive the most revenue.
+
+📊 Key Features
+
+Revenue KPIs: Total Revenue, Factored Revenue, Conversion Rate, Orders Finalized, and Average Lead Time.
+
+Revenue Breakdown by Segment & Region: Visual comparison of performance across strategic, large, medium, and small segments.
+
+Sales Stage & Partner Driven Analysis: Bar charts highlighting the value of opportunities at each sales stage.
+
+Sales Funnel: Clear visualization of lead → qualify → solution → proposal → finalization stages.
+
+Monthly Trend Analysis: Revenue trends and opportunity counts by month to identify seasonality and performance spikes.
+
+Finalized Deals Table: Detailed view of closed deals including product category, revenue, factored revenue, and conversion metrics.
+
+Interactive Filters: Partner-driven and product code slicers to explore data from multiple perspectives.
+
+🛠️ Skills & Tools Used
+
+Power BI Desktop
+
+DAX (Measures & Calculations)
+
+Data Modeling
+
+Power Query (ETL)
+
+Data Visualization & UX Design
+
+Business Insights & KPI Analysis
+
+🎯 Purpose
+
+This project demonstrates my ability to:
+
+Build clean and professional dashboards
+
+Transform raw data into actionable insights
+
+Create business-focused visual stories
+
+Work with KPIs, sales funnels, and trend analysis
+
+Deliver reporting suitable for business stakeholders and decision-makers
